@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=100&fontAlign=50&fontAlignY=50)  
 
 <body>
-<p align="center"><strong>👋Hi there👋</strong></>
+### <p align="center"><strong>👋Hi there👋</strong></>
 <p align="center">I'm Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦</p>
 <br/>
 </br>
@@ -17,9 +17,6 @@
 </br>
 </br>
 </br>
-
-<p style="text-align:center; font-size:60px;">안녕</p>
-<p style="font-size:60px;">안녕</p>
 </body>
 
 
