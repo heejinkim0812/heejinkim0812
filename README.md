@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40)  
 
-<!--
-**heejinkim0812/heejinkim0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>  ### 👋 Hi there 👋 </center>
+<center> I'am Heejin Kim, a growing developer🌱  </center>
+<center> I'll work hard to become a diligent developer💦 </center>
+<br/>
 
-Here are some ideas to get you started:
+<center>🔧### Tech Stack🔧</center>
+<center> Techs that I've used at least once </center>
+<center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&color=blue"/></a><img src="https://img.shields.io/badge/JAVA-3766AB?style=flat-square&logo=Java&logoColor=white&color=red"/></a><img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white&color=purple"/><img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white&color=yellow"/></a><img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white&color=orange"/></a></center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center><img src="https://img.shields.io/badge/OpenCV-3766AB?style=flat-square&logo=OpenCV&logoColor=white&color=green"/></a><img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white&color=orange"/></a><img src="https://img.shields.io/badge/React.js-3766AB?style=flat-square&logo=React&logoColor=white&color=84DFFF"/></a><img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=Amazon AWS&logoColor=white&color=E8E1D9"/></a></center>
+<br/>
+
+<center>###✨ ME ✨ </center>
+<center><a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/></a><a href=""><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/></a><a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/></a> </center>
