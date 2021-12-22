@@ -1,5 +1,10 @@
+<html>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=100&fontAlign=50&fontAlignY=50)  
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+</style>
+<body>
 <p align="center" style="font-size:60px; font-family:'Open Sans', sans-serif;"><strong>👋Hi there👋</strong></>
 <p align="center">I'am Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦</p>
 <br/>
@@ -12,4 +17,5 @@
 <p align="center"><a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/></a> <a href=""><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/></a> <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/></a> </p>
 </br>
 </br>
-
+</body>
+</html>
