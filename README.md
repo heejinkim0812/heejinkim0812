@@ -17,6 +17,9 @@
 </br>
 </br>
 </br>
+
+<p style="text-align:center; font-size:60px;">안녕</p>
+<p style="font-size:60px;">안녕</p>
 </body>
 
 
