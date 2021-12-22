@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40)  
 
- ### <center>👋Hi there👋 </center>
+<center> ###👋Hi there👋 </center>
 <p align="center">I'am Heejin Kim, a growing developer🌱</p>
 <p align="center">I'll work hard to become a diligent developer💦</p>
 <br/>
