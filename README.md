@@ -1,7 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40)  
+
 <div align="center">
   **👋Hi there👋**
 </div>
+### <div align="center">
+  👋Hi there👋
+</div>
+
+<center>a</center>
+<center>**a**</center>
+###<center>a</center>
+** <center>a</center> **
 
 <p align="center">I'am Heejin Kim, a growing developer🌱</p>
 <p align="center">I'll work hard to become a diligent developer💦</p>
