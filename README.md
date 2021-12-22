@@ -1,6 +1,5 @@
-<html>
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=100&fontAlign=50&fontAlignY=50)  
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=100&fontAlign=50&fontAlignY=50)  
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 </style>
@@ -18,4 +17,4 @@
 </br>
 </br>
 </body>
-</html>
+
