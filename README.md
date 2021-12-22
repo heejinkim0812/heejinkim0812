@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=!false&fontColor=ffffff&fontSize=100&fontAlign=50&fontAlignY=50)  
-
-<p align="center"><strong>👋Hi there👋</strong></>
-<p align="center">I'am Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦</p>
+<style>
+  p {font-family:'Open Sans', sans-serif;}
+</style>
+<p align="center" style="font-size:24px;"><strong>👋Hi there👋</strong></>
+<p align="center" style="font-size:24px; font-family:">I'am Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦</p>
 <br/>
 <p align="center"><b>🔧Tech Stack🔧</b></p>
 <p align="center">Techs that I've used at least once </p>
