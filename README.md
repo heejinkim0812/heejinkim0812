@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=48&descSize=40&descAlign=50&descAlignY=65)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=45&descSize=40&descAlign=50&descAlignY=60)  
 
 <body>
 <p align="center"><strong>👋Hi there👋</strong></>
