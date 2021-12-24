@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/OpenCV-3766AB?style=flat-square&logo=OpenCV&logoColor=white&color=06FF00"/></a> <img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white&color=orange"/></a> <img src="https://img.shields.io/badge/React.js-3766AB?style=flat-square&logo=React&logoColor=black&color=84DFFF"/></a> <img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=Amazon AWS&logoColor=orange&color=E8E1D9"/></a>   </p>
 <br/>
 </br>
-<p align="center"> <image src="https://user-images.githubusercontent.com/71063574/147320836-da32c343-db6d-4c66-bdd7-1df61fcb2c34.png" style="width: 115px; height: auto;"/> <br/>
-<a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/></a> <a href=""><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/></a> <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/></a>  </p>
+<p align="center"> <image src="https://user-images.githubusercontent.com/71063574/147320836-da32c343-db6d-4c66-bdd7-1df61fcb2c34.png" style="width: 115px; height: auto;"/> <br/><br/><a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/></a> <a href=""><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/></a> <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/></a> </p>
 </br>
 </br>
 </br>
