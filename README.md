@@ -4,16 +4,18 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 </p>
-</br>
-</br>
-<h2 align="center"> 👋 Hi there 👋 </h3>
+<br>
+
+<h3 align="center"> 👋 Hi there 👋 </h3>
+
 <p align="center"> 
   I'm Heejin Kim, a growing developer🌱<br>
   I'll work hard to become a diligent developer💦 
 </p>
 <br>
-<br>
-<h2 align="center"> 🛠️ Tech Stack 🛠️ </h3>
+
+<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
+
 <p align="center"> 
   Techs that I've used at least once <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&color=blue"/>&nbsp
@@ -28,13 +30,14 @@
   <img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=Amazon AWS&logoColor=orange&color=E8E1D9"/>&nbsp   
 </p>
 <br>
-<br>
-<h2 align="center"> 🍒 ME 🍒 </h3> 
+
+<h3 align="center"> 🍒 ME 🍒 </h3> 
+
 <p align="center"> 
   <a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/>&nbsp 
   <a href="mailto:heejin.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/>&nbsp 
   <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp 
 </p>
 <br>
-<br>
+
 
