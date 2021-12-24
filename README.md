@@ -16,5 +16,5 @@
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkim0812&show_icons=true&theme=default)
+<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heejinkim0812&show_icons=true&theme=default) </p>
 
