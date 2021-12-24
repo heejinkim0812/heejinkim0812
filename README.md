@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=58)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=60)  
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a></p>
 </br>
 </br>
