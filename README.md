@@ -1,10 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=60)  
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCD1D1&height=170&section=header&text=!False;&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 </p>
-<br>
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 
@@ -12,7 +12,6 @@
   I'm Heejin Kim, a growing developer🌱<br>
   I'll work hard to become a diligent developer💦 
 </p>
-<br>
 
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/React.js-3766AB?style=flat-square&logo=React&logoColor=black&color=84DFFF"/>&nbsp  
   <img src="https://img.shields.io/badge/AWS-3766AB?style=flat-square&logo=Amazon AWS&logoColor=orange&color=E8E1D9"/>&nbsp   
 </p>
-<br>
 
 <h3 align="center"> 🍒 ME 🍒 </h3> 
 
@@ -38,6 +36,6 @@
   <a href="mailto:heejin.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/>&nbsp 
   <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp 
 </p>
-<br>
-
+    
+![footer](https://capsule-render.vercel.app/api?type=slice&color=AEE1E1&height=100&section=footer)
 
