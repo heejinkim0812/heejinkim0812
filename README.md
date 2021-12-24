@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FCD1D1&height=170&section=header&text=!False;&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FCD1D1&height=170&section=header&text=!%20False&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=fadeIn)
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
@@ -37,5 +37,5 @@
   <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp 
 </p>
     
-![footer](https://capsule-render.vercel.app/api?type=slice&color=AEE1E1&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=AEE1E1&height=100&section=footer&animation=fadeIn)
 
