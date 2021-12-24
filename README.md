@@ -36,6 +36,6 @@
   <a href="mailto:heejin.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/>&nbsp 
   <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp 
 </p>
-    
+<br>    
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=AEE1E1&height=100&section=footer&animation=fadeIn)
 
