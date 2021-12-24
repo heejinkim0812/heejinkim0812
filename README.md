@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=53&fontAlignY=42&descSize=40&descAlign=53&descAlignY=58)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=53&fontAlignY=40&descSize=40&descAlign=53&descAlignY=55)  
 
 <p align="center"><image src="https://user-images.githubusercontent.com/71063574/147319874-d6fa2eed-a63e-4f05-b205-30d920b0d546.png" style="width: 200px; height: auto;"/></p>
 <p align="center"> I'm Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦  </p>
