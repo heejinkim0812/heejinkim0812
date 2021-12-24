@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40&descSize=40&descAlign=50&descAlignY=58)  
 
+<div align=center>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
+
 <p align="center"><image src="https://user-images.githubusercontent.com/71063574/147319874-d6fa2eed-a63e-4f05-b205-30d920b0d546.png" style="width: 200px; height: auto;"/> <br/> I'm Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦  </p>
 <br/>
 </br>
@@ -13,6 +17,6 @@
 </br>
 </br>
 </br>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 
 
