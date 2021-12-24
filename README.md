@@ -6,14 +6,14 @@
 </p>
 </br>
 </br>
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h4 align="center"> 👋 Hi there 👋 </h3>
 <p align="center"> 
   I'm Heejin Kim, a growing developer🌱<br>
   I'll work hard to become a diligent developer💦 
 </p>
 <br>
 <br>
-<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
+<h4 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 <p align="center"> 
   Techs that I've used at least once <br>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&color=blue"/>&nbsp
@@ -29,11 +29,11 @@
 </p>
 <br>
 <br>
-<h3 align="center"> 🍒 ME 🍒 </h3> 
+<h4 align="center"> 🍒 ME 🍒 </h3> 
 <p align="center"> 
   <a href="https://velog.io/@heejinkim0812"><img src="https://img.shields.io/badge/Velog-3766AB?style=flat-square&logo=Vimeo&logoColor=white&color=57CC99&link=내링크"/>&nbsp 
-  <a href=""><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/>&nbsp 
-  <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/><&nbsp 
+  <a href="mailto:heejin.kim.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-3766AB?style=flat-square&logo=Gmail&logoColor=white&color=9B0000&link=내링크"/>&nbsp 
+  <a href="https://www.youtube.com/channel/UC73gxBkGXg3ocutr0wz4FBw"><img src="https://img.shields.io/badge/YouTube-3766AB?style=flat-square&logo=YouTube&logoColor=white&color=CD1818&link=내링크"/>&nbsp 
 </p>
 <br>
 <br>
