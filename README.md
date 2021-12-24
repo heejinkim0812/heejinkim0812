@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&text=Hello%20World!&desc=!false&fontColor=ffffff&fontSize=80&fontAlign=53&fontAlignY=42&descSize=40&descAlign=53&descAlignY=58)  
 
-<p align="center"> 👋<image src="https://user-images.githubusercontent.com/71063574/147318394-7029ad4f-38ab-4eda-9f80-9a3b617bb7cc.png" style="width: 100px; height: auto;"/>👋</p>
+<p align="center"><image src="https://user-images.githubusercontent.com/71063574/147319704-2901be63-50b5-4cad-b249-4d7c060f1c0e.png" style="width: 100px; height: auto;"/></p>
 <p align="center"> I'm Heejin Kim, a growing developer🌱<br/>I'll work hard to become a diligent developer💦  </p>
 <br/>
 </br>
